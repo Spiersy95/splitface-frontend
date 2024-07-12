@@ -16,7 +16,7 @@ of each activity.
 
 ### Persistent feature of each activity
 
-### Landing activity
+### Landing activity with search functionality
 
 ### Sign-up Activity
 
@@ -24,6 +24,10 @@ of each activity.
 
 ### Profile activity
 
+### Delete and edit profile functionality
+
 ### GoogleMaps activity 
 
 ### Add Post activity
+
+### Edit Post activity
